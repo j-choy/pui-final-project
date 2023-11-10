@@ -1,0 +1,16 @@
+* {
+    margin: 0px auto;
+}
+
+body {
+    background: #394968;
+    font-family: Karla, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+    color: white;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+}
+
