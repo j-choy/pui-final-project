@@ -8,9 +8,21 @@ body {
     color: white;
 }
 
+main {
+    /* display: flex; */
+}
+
 h1 {
-    font-weight: 700;
+    font-family: 'Karla', sans-serif;
+    font-weight: 400;
     font-size: 40px;
     text-align: center;
+}
+
+.circle {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: aquamarine;
 }
 
